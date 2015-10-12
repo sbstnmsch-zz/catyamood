@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sbstnmsch/catyamood.svg?branch=master)](https://travis-ci.org/sbstnmsch/catyamood)
+
 # cat ya` mood
 A simple firebase app for scrum retrospectives.
 
