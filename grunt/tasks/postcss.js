@@ -1,12 +1,11 @@
 var
-    _postcssNextProcessor = require('cssnext')(),
     _postcssCustomPropertiesProcessor = require('postcss-custom-properties')(),
     _postcssImportProcessor = require('postcss-import')(),
     _postcssNestedProcessor = require('postcss-nested')(),
     _postcssSvgProcessor = require('postcss-svg')({
       ei: { "defaults": "[fill]: white" }
     }),
-    _autoprefixerProcessor = require('autoprefixer-core')({
+    _autoprefixerProcessor = require('autoprefixer')({
       browsers: [
         'last 3 Android versions',
         'last 4 iOS versions',
@@ -28,7 +27,7 @@ module.exports = {
         _postcssNestedProcessor,
         _postcssSvgProcessor,
         _autoprefixerProcessor,
-        _postcssNextProcessor
+        _cssNanoProcessor
       ]
     },
     files: {
