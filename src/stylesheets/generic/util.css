@@ -1,0 +1,21 @@
+.u-container {
+  display: none;
+}
+
+.u-visible {
+  display: block;
+  opacity: 1 !important;
+  filter: blur(0px) !important;
+}
+
+.u-happy {
+  background-image: url(/assets/images/happy.jpg);
+}
+
+.u-sober {
+  background-image: url(/assets/images/sober.jpg);
+}
+
+.u-grumpy {
+  background-image: url(/assets/images/grumpy.jpg);
+}

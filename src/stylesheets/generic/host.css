@@ -1,0 +1,47 @@
+.catyamood-host {
+  background-image: svg("ei#sc-github");
+  background-size: 20%;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+
+  span {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(255,255,255,.9);
+
+    h1 {
+      font-size: 50px;
+      margin-bottom: -5px;
+    }
+
+    a {
+      font-size: 20px;
+      text-decoration: none;
+      color: rgba(205,235,255,.9);
+    }
+  }
+
+  div {
+    display: block;
+    opacity: 0;
+    filter: blur(50px);
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-size: cover;
+    transition: all 1s ease-in-out;
+  }
+}
