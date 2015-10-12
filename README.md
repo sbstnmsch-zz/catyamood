@@ -10,10 +10,6 @@ Clients using stationary browsers get the server (receiver)
 version served. Once the mood changes a mood picture is displayed
 and a sound is played.
 
-## Even more fun
-Get addicted to the pug version! Just checkout the pug-version branch or hit
-http://sebastian-misch.de/catyamood
-
 ## How to use it
 Hit http://sebastian-misch.de/catyamood for a working sample.
 
