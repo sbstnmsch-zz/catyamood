@@ -9,13 +9,13 @@
 }
 
 .u-happy {
-  background-image: url(/assets/images/happy.jpg);
+  background-image: url(assets/images/happy.jpg);
 }
 
 .u-sober {
-  background-image: url(/assets/images/sober.jpg);
+  background-image: url(assets/images/sober.jpg);
 }
 
 .u-grumpy {
-  background-image: url(/assets/images/grumpy.jpg);
+  background-image: url(assets/images/grumpy.jpg);
 }
