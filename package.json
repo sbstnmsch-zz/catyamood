@@ -50,7 +50,7 @@
     "load-grunt-config": "0.19.1",
     "node-libs-browser": "0.5.3",
     "postcss-custom-properties": "5.0.0",
-    "postcss-import": "7.0.0",
+    "postcss-import": "8.0.0",
     "postcss-nested": "1.0.0",
     "postcss-svg": "1.0.1",
     "tape": "4.4.0",
