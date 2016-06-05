@@ -44,7 +44,7 @@
     "grunt-html": "6.0.0",
     "grunt-manifest": "0.4.0",
     "grunt-postcss": "0.7.1",
-    "grunt-processhtml": "0.3.9",
+    "grunt-processhtml": "0.4.0",
     "grunt-shell": "1.1.2",
     "jit-grunt": "0.9.1",
     "load-grunt-config": "0.19.1",
