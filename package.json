@@ -25,7 +25,7 @@
   "author": "Sebastian Misch <sbstnmsch~AT~google> (http://sebastian-misch.de/)",
   "devDependencies": {
     "autoprefixer": "6.3.1",
-    "babel-cli": "6.4.5",
+    "babel-cli": "6.11.4",
     "babel-core": "6.4.5",
     "babel-eslint": "4.1.8",
     "babel-loader": "6.2.2",
