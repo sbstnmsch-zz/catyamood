@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/sbstnmsch/catyamood.svg?branch=master)](https://travis-ci.org/sbstnmsch/catyamood)
 
 # cat ya` mood
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sbstnmsch/catyamood.svg)](https://greenkeeper.io/)
 A simple firebase app for scrum retrospectives.
 
 Clients using smartphones or tablets get a simple web-app (sender)
