@@ -48,7 +48,7 @@
     "grunt-shell": "2.1.0",
     "jit-grunt": "0.10.0",
     "load-grunt-config": "0.19.2",
-    "node-libs-browser": "2.1.0",
+    "node-libs-browser": "2.2.0",
     "postcss-custom-properties": "7.0.0",
     "postcss-import": "11.1.0",
     "postcss-nested": "3.0.0",
